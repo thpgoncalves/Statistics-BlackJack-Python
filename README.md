@@ -31,27 +31,27 @@ To make it easier to upgrade and maintain the code in the future, a modularizati
 ## Screenshots:
 
 ### Game Mode
-![Casino Experience](./blackjack/img/game_mode.png)
+![Casino Experience](./Blackjack/img/game_mode.png)
 
 Above is an example of using the Casino Experience mode, where the player chooses between the possible moves and plays against the Dealer.
 
 ### Simulation Mode
-![Simulation Mode](./blackjack/img/simulation_mode.png)
+![Simulation Mode](./Blackjack/img/simulation_mode.png)
 
 Above is an example of using the Simulation Mode, which simulates 100,000 games based on the strategies described in the files and returns the most important statistics.
 
 ### Hard Hand
-![Hard Hand](./blackjack/img/hard_hand.jpg)
+![Hard Hand](./Blackjack/img/hard_hand.jpg)
 
 Above is the diagram on which the strategy for playing all the possible Hard Hands combinations was based.
 
 ### Soft Hand
-![Soft Hand](./blackjack/img/soft_hand.jpg)
+![Soft Hand](./Blackjack/img/soft_hand.jpg)
 
 Above is the diagram on which the strategy for playing all the possible Soft Hands combinations was based.
 
 ### Pairs
-![Pairs](./blackjack/img/Pairs.jpg)
+![Pairs](./Blackjack/img/Pairs.jpg)
 
 Above is the diagram on which the strategy for playing all the possible Pairs combinations was based.
 
