@@ -8,6 +8,8 @@ O programa tem 2 formas de uso:
 1. **Simulação de Rodadas**: Possibilidade de simular milhares de jogos de blackjack para avaliar o desempenho de diferentes estratégias. A simulação automatiza o processo de jogar blackjack, registrando estatísticas importantes como taxas de vitória e uso de estratégias. É uma ferramenta poderosa para entender quais abordagens funcionam melhor em diferentes situações.
 2. **Experiência de Cassino**: Possibilita jogar mão a mão, sabendo apenas uma carta da mão do Dealer e tomando as decisões até o jogo terminar para decidir quem ganha.
 
+Esta aplicação é uma simulação de blackjack com estratégias específicas definidas mão a mão. Embora o blackjack seja o objeto central desta simulação, a ideia por trás da aplicação é altamente versátil e pode ser adaptada para diversas áreas do mercado de trabalho. Por exemplo, ela pode ser utilizada para a análise de riscos em finanças, otimização de processos em operações industriais, desenvolvimento de estratégias de marketing, e até mesmo em pesquisas acadêmicas para modelagem de comportamentos e tomadas de decisão. A flexibilidade e a capacidade de adaptação desta aplicação a diferentes contextos demonstram seu valor potencial
+
 # Statistics & BlackJack v1 - EN
 
 This is a program designed to study simulations and statistics on a practical subject such as BlackJack.
@@ -17,6 +19,8 @@ To make the data as accurate as possible, the practices used in casinos were imp
 The program can be used in 2 ways:
 1. **Simulation of Rounds**: Possibility of simulating thousands of blackjack games to evaluate the performance of different strategies. Simulation automates the process of playing blackjack, recording important statistics such as win rates and strategy usage. It's a powerful tool for understanding which approaches work best in different situations.
 2. **Casino Experience**: Allows you to play hand for hand, knowing only one card from the Dealer's hand and making decisions until the game is over to decide who wins.
+
+This application is a blackjack simulation with specific hand-by-hand strategies. Although blackjack is the central object of this simulation, the underlying idea of the application is highly versatile and can be adapted for various areas of the job market. For instance, it can be used for risk analysis in finance, process optimization in industrial operations, strategy development in marketing, and even in academic research for modeling behaviors and decision-making. The flexibility and adaptability of this application to different contexts demonstrate its potential value 
 
 
 ## Project Structure:
